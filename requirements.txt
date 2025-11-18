@@ -3,3 +3,8 @@ numpy
 matplotlib
 seaborn
 openpyxl
+scikit-learn
+xgboost
+imbalanced-learn
+scipy
+
